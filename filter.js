@@ -10,7 +10,7 @@ const user = {
   count: 2,
   log: [
     {
-      description: 'Cardio con Mariana',
+      description: 'Running',
       duration: 60,
       date: '2020-06-25T05:39:44.069Z',
     },
